@@ -1,0 +1,1 @@
+Green Fluorescent Protein (GFP) ribbon model by srmn on Thingiverse: https://www.thingiverse.com/thing:4656744
