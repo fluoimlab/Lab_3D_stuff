@@ -1,5 +1,8 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-team.svg)](https://stand-with-ukraine.pp.ua)
 
+# UC2
+Different 3D-modelas related to [openUC2](https://openuc2.com) framework.
+
 # 0 Useful models
 
 | Model                                  | Description                                                  |
